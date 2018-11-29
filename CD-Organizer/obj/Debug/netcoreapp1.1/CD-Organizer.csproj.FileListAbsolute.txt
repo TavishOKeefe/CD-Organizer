@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/bin/Debug/netcoreapp1.1/CD-Organizer.deps.json
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/bin/Debug/netcoreapp1.1/CD-Organizer.runtimeconfig.json
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/bin/Debug/netcoreapp1.1/CD-Organizer.runtimeconfig.dev.json
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/bin/Debug/netcoreapp1.1/CD-Organizer.dll
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/bin/Debug/netcoreapp1.1/CD-Organizer.pdb
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/obj/Debug/netcoreapp1.1/CD-Organizer.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/obj/Debug/netcoreapp1.1/CD-Organizer.AssemblyInfo.cs
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/obj/Debug/netcoreapp1.1/CD-Organizer.dll
+/Users/Guest/Desktop/CD-Organizer.Solutions/CD-Organizer/obj/Debug/netcoreapp1.1/CD-Organizer.pdb
