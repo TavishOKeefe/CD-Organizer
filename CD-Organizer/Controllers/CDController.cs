@@ -7,8 +7,8 @@ namespace Organizer.Controllers
 {
   public class CDController : Controller
   {
-    [HttpGet("/CD/New")]
-    public ActionResult New()
+    [HttpGet("/CD")]
+    public ActionResult Index()
     {
       return View();
     }
