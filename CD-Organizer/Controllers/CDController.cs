@@ -12,5 +12,17 @@ namespace Organizer.Controllers
     {
       return View();
     }
+    [HttpGet("/CD/New")]
+    public ActionResult New()
+    {
+      return View();
+    }
+    [HttpPost("/CD")]
+    public ActionResult Create(string title)
+    {
+      CD myCD = new Cd(title);
+      L
+
+    }
   }
 }
